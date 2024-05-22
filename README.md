@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bem vindos ao eu perfil! :)
+-Sou a Izadora Firmo, estudante do alura.
+
 
 <!--
 **izamorws/izamorws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
